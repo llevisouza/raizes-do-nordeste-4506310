@@ -25,6 +25,7 @@ MUTED = colors.HexColor('#666666')
 LINE = colors.HexColor('#8b8b8b')
 LIGHT = colors.HexColor('#f4f4f4')
 W = A4[0] - 5 * cm
+diagram_minimum = 8
 styles = {
     'body': ParagraphStyle('Body', fontName='Arial', fontSize=12, leading=18, spaceAfter=10, alignment=TA_JUSTIFY, textColor=INK, splitLongWords=True),
     'h1': ParagraphStyle('Chapter', fontName='Arial-Bold', fontSize=12, leading=18, spaceAfter=18, keepWithNext=True),
@@ -38,6 +39,7 @@ styles = {
 def p(text, style='body'):
     return Paragraph(html.escape(text), styles[style])
 def label(d, x, y, text, size=9, bold=False, center=True):
+    size=max(size,diagram_minimum)
     lines = text.split('\n')
     for i, line in enumerate(lines):
         d.add(String(x, y + (len(lines)-1)*size*.55 - i*size*1.2, line, fontName='Arial-Bold' if bold else 'Arial', fontSize=size, fillColor=INK, textAnchor='middle' if center else 'start'))
@@ -148,13 +150,13 @@ def wire_desktop():
     box(d,65,84,154,46,'[ Produto + ]',10); box(d,231,84,154,46,'[ Produto + ]',10)
     box(d,65,25,320,46,'Total  |  [ Revisar e pagar ]\nAviso de inatividade / Continuar atendimento',8)
     return d
-figures={'arquitetura':architecture(),'casos':cases(),'jornada':journey(),'wiremobile':wire_mobile(),'wiredesktop':wire_desktop()}
-def readable_text(shape, minimum):
-    if isinstance(shape,String): shape.fontSize=max(minimum,shape.fontSize)
-    for child in getattr(shape,'contents',[]): readable_text(child,minimum)
+def diagram(builder, minimum):
+    global diagram_minimum
+    diagram_minimum=minimum
+    return builder()
+figures={'arquitetura':diagram(architecture,10),'casos':diagram(cases,9.5),'jornada':diagram(journey,10),'wiremobile':diagram(wire_mobile,9),'wiredesktop':diagram(wire_desktop,12)}
 for key,target in [('arquitetura',340),('casos',480),('jornada',480),('wiremobile',380),('wiredesktop',360)]:
     original=figures[key]
-    readable_text(original,9 if key=='wiremobile' else 9.5 if key=='casos' else 12 if key=='wiredesktop' else 10)
     scale=target/original.height
     wrapper=Drawing(W,target)
     original.scale(scale,scale)

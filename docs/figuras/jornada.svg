@@ -12,17 +12,17 @@
 		<g transform="">
 			<g transform=" matrix(0.842105,0,0,0.842105,35.806051,0)">
 				<rect x="105" y="518" width="240" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="168.85009765625" y="541.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,1082) scale(1,-1)">Escolher unidade e canal</text>
-				<text x="183.31787109375" y="530.6500000000001" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,1061) scale(1,-1)">Web / App / Totem</text>
+				<text x="168.85009765625" y="542.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,1084) scale(1,-1)">Escolher unidade e canal</text>
+				<text x="183.31787109375" y="530.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,1060) scale(1,-1)">Web / App / Totem</text>
 				<rect x="105" y="452" width="240" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="183.0322265625" y="475.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,950) scale(1,-1)">Consultar cardápio</text>
-				<text x="136.611328125" y="464.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,929) scale(1,-1)">Disponibilidade, preço e personalização</text>
+				<text x="183.0322265625" y="476.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,952) scale(1,-1)">Consultar cardápio</text>
+				<text x="136.611328125" y="464.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,928) scale(1,-1)">Disponibilidade, preço e personalização</text>
 				<rect x="105" y="386" width="240" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="187.20458984375" y="409.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,818) scale(1,-1)">Organizar sacola</text>
-				<text x="155.23193359375" y="398.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,797) scale(1,-1)">Cadastro e fidelidade opcionais</text>
+				<text x="187.20458984375" y="410.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,820) scale(1,-1)">Organizar sacola</text>
+				<text x="155.23193359375" y="398.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,796) scale(1,-1)">Cadastro e fidelidade opcionais</text>
 				<rect x="105" y="320" width="240" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="159.1357421875" y="343.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,686) scale(1,-1)">Revisar e solicitar pagamento</text>
-				<text x="154.95849609375" y="332.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,665) scale(1,-1)">Total, retirada e aviso de dados</text>
+				<text x="159.1357421875" y="344.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,688) scale(1,-1)">Revisar e solicitar pagamento</text>
+				<text x="154.95849609375" y="332.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,664) scale(1,-1)">Total, retirada e aviso de dados</text>
 				<path d="M 225,518 L 225,495 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 495, 227.8766 500.2655, 222.1234 500.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<path d="M 225,452 L 225,429 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
@@ -30,8 +30,8 @@
 				<path d="M 225,386 L 225,363 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 363, 227.8766 368.2655, 222.1234 368.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="105" y="254" width="240" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="169.13330078125" y="277.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,554) scale(1,-1)">Aguardar retorno externo</text>
-				<text x="156.90185546875" y="266.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,533) scale(1,-1)">Sem preparo durante a espera</text>
+				<text x="169.13330078125" y="278.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,556) scale(1,-1)">Aguardar retorno externo</text>
+				<text x="156.90185546875" y="266.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,532) scale(1,-1)">Sem preparo durante a espera</text>
 				<path d="M 225,320 L 225,297 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 297, 227.8766 302.2655, 222.1234 302.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<polygon points="225 239, 275 211, 225 183, 175 211" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
@@ -39,23 +39,23 @@
 				<path d="M 225,254 L 225,239 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 239, 227.8766 244.2655, 222.1234 244.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="5" y="192" width="105" height="40" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="34.9853515625" y="213.675" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,427) scale(1,-1)">Recusado</text>
-				<text x="34.716796875" y="203.47500000000002" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,406) scale(1,-1)">Exibir erro</text>
+				<text x="34.9853515625" y="214.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,429) scale(1,-1)">Recusado</text>
+				<text x="34.716796875" y="202.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,405) scale(1,-1)">Exibir erro</text>
 				<path d="M 175,211 L 110,211 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="110 211, 115.2655 208.1234, 115.2655 213.8766" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="340" y="192" width="105" height="40" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="371.09130859375" y="213.675" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,427) scale(1,-1)">Pendente</text>
-				<text x="354.70458984375" y="203.47500000000002" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,406) scale(1,-1)">Preservar código</text>
+				<text x="371.09130859375" y="214.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,429) scale(1,-1)">Pendente</text>
+				<text x="354.70458984375" y="202.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,405) scale(1,-1)">Preservar código</text>
 				<path d="M 275,211 L 340,211 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="340 211, 334.7345 213.8766, 334.7345 208.1234" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="5" y="127" width="105" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="18.86962890625" y="150.175" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,300) scale(1,-1)">Consultar retorno</text>
-				<text x="31.93115234375" y="139.97500000000002" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,279) scale(1,-1)">ou encerrar</text>
+				<text x="18.86962890625" y="151.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,302) scale(1,-1)">Consultar retorno</text>
+				<text x="31.93115234375" y="139.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,278) scale(1,-1)">ou encerrar</text>
 				<path d="M 57,192 L 57,170 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="57 170, 59.87655 175.2655, 54.12345 175.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="340" y="127" width="105" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="349.14306640625" y="150.175" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,300) scale(1,-1)">Consultar resultado</text>
-				<text x="353.583984375" y="139.97500000000002" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,279) scale(1,-1)">Sem novo pedido</text>
+				<text x="349.14306640625" y="151.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,302) scale(1,-1)">Consultar resultado</text>
+				<text x="353.583984375" y="139.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,278) scale(1,-1)">Sem novo pedido</text>
 				<path d="M 392,192 L 392,170 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="392 170, 394.8766 175.2655, 389.1234 175.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<path d="M 5,149 L 1,149 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1;"/>
@@ -67,14 +67,14 @@
 				<path d="M 450,275 L 345,275 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="345 275, 350.2655 272.1234, 350.2655 277.8766" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="5" y="67" width="105" height="35" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="28.88427734375" y="86.175" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,172) scale(1,-1)">Encerrar: fim</text>
-				<text x="25.26123046875" y="75.975" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,151) scale(1,-1)">Sem cobrança</text>
+				<text x="28.88427734375" y="87.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,174) scale(1,-1)">Encerrar: fim</text>
+				<text x="25.26123046875" y="75.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,150) scale(1,-1)">Sem cobrança</text>
 				<path d="M 57,127 L 57,102 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="57 102, 59.87655 107.2655, 54.12345 107.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<text x="238.59619140625" y="171.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,342) scale(1,-1)">Aprovado</text>
 				<rect x="120" y="126" width="210" height="35" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="186.64794921875" y="145.175" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,290) scale(1,-1)">Confirmar pedido</text>
-				<text x="149.677734375" y="134.97500000000002" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,269) scale(1,-1)">Aplicar estoque e pontos uma vez</text>
+				<text x="186.64794921875" y="146.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,292) scale(1,-1)">Confirmar pedido</text>
+				<text x="149.677734375" y="134.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,268) scale(1,-1)">Aplicar estoque e pontos uma vez</text>
 				<path d="M 225,183 L 225,161 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 161, 227.8766 166.2655, 222.1234 166.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="120" y="67" width="210" height="35" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
@@ -82,8 +82,8 @@
 				<path d="M 225,126 L 225,102 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 102, 227.8766 107.2655, 222.1234 107.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="120" y="8" width="210" height="35" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="175.25146484375" y="27.175" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,54) scale(1,-1)">Cliente informa código</text>
-				<text x="161.3525390625" y="16.975" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,33) scale(1,-1)">Atendente confirma Retirado</text>
+				<text x="175.25146484375" y="28.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,56) scale(1,-1)">Cliente informa código</text>
+				<text x="161.3525390625" y="16.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,32) scale(1,-1)">Atendente confirma Retirado</text>
 				<path d="M 225,67 L 225,43 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="225 43, 227.8766 48.2655, 222.1234 48.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 			</g>

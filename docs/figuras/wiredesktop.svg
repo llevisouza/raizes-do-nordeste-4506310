@@ -20,32 +20,32 @@
 				<rect x="12" y="366" width="280" height="49" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
 				<text x="49.2763671875" y="387.5" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,775) scale(1,-1)">Mensagem da loja / busca / categorias</text>
 				<rect x="12" y="290" width="133" height="66" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="57.4853515625" y="328.8" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,657) scale(1,-1)">Produto</text>
-				<text x="16.4580078125" y="319.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,638) scale(1,-1)">Preço e disponibilidade</text>
-				<text x="48.48828125" y="309.6" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,619) scale(1,-1)">[ Escolher ]</text>
+				<text x="57.4853515625" y="333.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,666) scale(1,-1)">Produto</text>
+				<text x="16.4580078125" y="318.8" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,637) scale(1,-1)">Preço e disponibilidade</text>
+				<text x="48.48828125" y="304.4" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,608) scale(1,-1)">[ Escolher ]</text>
 				<rect x="154" y="290" width="133" height="66" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="199.4853515625" y="328.8" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,657) scale(1,-1)">Produto</text>
-				<text x="158.4580078125" y="319.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,638) scale(1,-1)">Preço e disponibilidade</text>
-				<text x="190.48828125" y="309.6" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,619) scale(1,-1)">[ Escolher ]</text>
+				<text x="199.4853515625" y="333.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,666) scale(1,-1)">Produto</text>
+				<text x="158.4580078125" y="318.8" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,637) scale(1,-1)">Preço e disponibilidade</text>
+				<text x="190.48828125" y="304.4" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,608) scale(1,-1)">[ Escolher ]</text>
 				<rect x="303" y="290" width="135" height="125" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="332.1533203125" y="362.7" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,725) scale(1,-1)">SUA SACOLA</text>
-				<text x="318.1259765625" y="353.09999999999997" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,706) scale(1,-1)">Itens e quantidades</text>
-				<text x="348.4833984375" y="343.5" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,687) scale(1,-1)">Subtotal</text>
-				<text x="323.8095703125" y="333.9" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,667) scale(1,-1)">[ Revisar pedido ]</text>
+				<text x="332.1533203125" y="369.3" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,738) scale(1,-1)">SUA SACOLA</text>
+				<text x="318.1259765625" y="354.90000000000003" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Itens e quantidades</text>
+				<text x="348.4833984375" y="340.5" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,681) scale(1,-1)">Subtotal</text>
+				<text x="323.8095703125" y="326.1" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,652) scale(1,-1)">[ Revisar pedido ]</text>
 				<text x="84.70817698080711" y="253.0" style="font-family: Arial-Bold; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,506) scale(1,-1)">Totem - ações maiores e encerramento da sessão</text>
 				<rect x="55" y="10" width="340" height="225" rx="7" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
 				<rect x="65" y="194" width="320" height="31" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
 				<text x="130.0576171875" y="206.5" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,413) scale(1,-1)">Unidade  |  [ Encerrar atendimento ]</text>
 				<rect x="65" y="140" width="320" height="44" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="138.9580078125" y="163.95" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,327) scale(1,-1)">Escolher produtos sem cadastro</text>
-				<text x="149.6162109375" y="153.14999999999998" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,306) scale(1,-1)">Categorias e disponibilidade</text>
+				<text x="138.9580078125" y="165.6" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,331) scale(1,-1)">Escolher produtos sem cadastro</text>
+				<text x="149.6162109375" y="151.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,302) scale(1,-1)">Categorias e disponibilidade</text>
 				<rect x="65" y="84" width="154" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
 				<text x="109.146484375" y="104.0" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,208) scale(1,-1)">[ Produto + ]</text>
 				<rect x="231" y="84" width="154" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
 				<text x="275.146484375" y="104.0" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,208) scale(1,-1)">[ Produto + ]</text>
 				<rect x="65" y="25" width="320" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="154.412109375" y="49.4" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,98) scale(1,-1)">Total  |  [ Revisar e pagar ]</text>
-				<text x="105.92578125" y="39.8" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,79) scale(1,-1)">Aviso de inatividade / Continuar atendimento</text>
+				<text x="154.412109375" y="51.6" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,103) scale(1,-1)">Total  |  [ Revisar e pagar ]</text>
+				<text x="105.92578125" y="37.2" style="font-family: Arial; font-size: 12px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,74) scale(1,-1)">Aviso de inatividade / Continuar atendimento</text>
 			</g>
 		</g>
 	</g>

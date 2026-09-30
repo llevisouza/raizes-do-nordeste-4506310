@@ -14,38 +14,38 @@
 				<rect x="10" y="258" width="433.5433070866142" height="160" rx="4" ry="0" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
 				<text x="132.3063215120571" y="399.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,798) scale(1,-1)">Demonstrador executado no navegador</text>
 				<rect x="25" y="325" width="120" height="45" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="42.7490234375" y="349.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,698) scale(1,-1)">Telas e navegação</text>
-				<text x="49.98779296875" y="338.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,677) scale(1,-1)">views.js / app.js</text>
+				<text x="42.7490234375" y="350.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,700) scale(1,-1)">Telas e navegação</text>
+				<text x="49.98779296875" y="338.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,676) scale(1,-1)">views.js / app.js</text>
 				<rect x="165" y="325" width="120" height="45" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="188.310546875" y="349.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,698) scale(1,-1)">Regras e estado</text>
-				<text x="208.88427734375" y="338.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,677) scale(1,-1)">store.js</text>
+				<text x="188.310546875" y="350.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,700) scale(1,-1)">Regras e estado</text>
+				<text x="208.88427734375" y="338.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,676) scale(1,-1)">store.js</text>
 				<rect x="305" y="325" width="120" height="45" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="333.31298828125" y="349.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,698) scale(1,-1)">Catálogo local</text>
-				<text x="350.2685546875" y="338.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,677) scale(1,-1)">data.js</text>
+				<text x="333.31298828125" y="350.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,700) scale(1,-1)">Catálogo local</text>
+				<text x="350.2685546875" y="338.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,676) scale(1,-1)">data.js</text>
 				<path d="M 145,347 L 165,347 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="165 347, 159.7345 349.8766, 159.7345 344.1234" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<path d="M 285,347 L 305,347 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8;"/>
 				<polygon points="305 347, 299.7345 349.8766, 299.7345 344.1234" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<text x="106.16130198080711" y="283.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,566) scale(1,-1)">Web / App representado / Totem - memória da sessão</text>
 				<rect x="50" y="164" width="353.5433070866142" height="60" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="158.9445051058071" y="195.95" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,391) scale(1,-1)">API de pedidos e autenticação</text>
-				<text x="103.08024729330711" y="185.14999999999998" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,370) scale(1,-1)">Futura: autoridade de preço, estoque, sessões e papéis</text>
+				<text x="158.9445051058071" y="196.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,393) scale(1,-1)">API de pedidos e autenticação</text>
+				<text x="103.08024729330711" y="184.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,369) scale(1,-1)">Futura: autoridade de preço, estoque, sessões e papéis</text>
 				<path d="M 226.771654,258 L 226.771654,224 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
 				<polygon points="226.7717 224, 229.6482 229.2655, 223.8951 229.2655" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<text x="306.64794921875" y="240.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,480) scale(1,-1)">Contrato futuro</text>
 				<rect x="20" y="69" width="190" height="58" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="58.0126953125" y="99.95" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,199) scale(1,-1)">Integração de pagamento</text>
-				<text x="47.7392578125" y="89.15" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,178) scale(1,-1)">Provedor / webhook / consulta</text>
+				<text x="58.0126953125" y="100.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,201) scale(1,-1)">Integração de pagamento</text>
+				<text x="47.7392578125" y="88.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,177) scale(1,-1)">Provedor / webhook / consulta</text>
 				<rect x="244" y="69" width="190" height="58" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="297.8720703125" y="99.95" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,199) scale(1,-1)">Operação e matriz</text>
-				<text x="277.0224609375" y="89.15" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,178) scale(1,-1)">Cozinha / balcão / relatórios</text>
+				<text x="297.8720703125" y="100.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,201) scale(1,-1)">Operação e matriz</text>
+				<text x="277.0224609375" y="88.5" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,177) scale(1,-1)">Cozinha / balcão / relatórios</text>
 				<path d="M 165,164 L 115,127 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
 				<polygon points="115 127, 120.9437 127.8198, 117.5215 132.4444" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<path d="M 285,164 L 340,127 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
 				<polygon points="340 127, 337.2367 132.3258, 334.0255 127.5523" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<rect x="121" y="2" width="210" height="43" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-				<text x="174.02734375" y="25.45" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,50) scale(1,-1)">Persistência e auditoria</text>
-				<text x="174.85986328125" y="14.65" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,29) scale(1,-1)">Transações e retenção</text>
+				<text x="174.02734375" y="26.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,52) scale(1,-1)">Persistência e auditoria</text>
+				<text x="174.85986328125" y="14.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,28) scale(1,-1)">Transações e retenção</text>
 				<path d="M 115,69 L 150,45 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
 				<polygon points="150 45, 147.2842 50.35016, 144.0306 45.60541" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,54%,54%); fill-rule: evenodd;"/>
 				<path d="M 340,69 L 303,45 Z" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
