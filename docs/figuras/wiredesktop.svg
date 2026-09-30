@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.5433070866142" height="535" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 535" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.5433070866142" height="535"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-535)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="137.0157941683071" y="519.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,1038) scale(1,-1)">Desktop - cardápio com sacola lateral</text>
+			<rect x="5" y="279" width="440" height="220" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<rect x="12" y="461" width="426" height="28" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="120.52221679687499" y="472.0" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,944) scale(1,-1)">Marca  |  Cardápio  |  Pedidos  |  Fidelidade  |  Conta</text>
+			<rect x="12" y="425" width="426" height="27" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="158.298828125" y="435.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,871) scale(1,-1)">Unidade / Canal - identificação visível</text>
+			<rect x="12" y="366" width="280" height="49" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="83.517578125" y="387.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,775) scale(1,-1)">Mensagem da loja / busca / categorias</text>
+			<rect x="12" y="290" width="133" height="66" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="64.490234375" y="328.8" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,657) scale(1,-1)">Produto</text>
+			<text x="37.138671875" y="319.2" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,638) scale(1,-1)">Preço e disponibilidade</text>
+			<text x="58.4921875" y="309.6" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,619) scale(1,-1)">[ Escolher ]</text>
+			<rect x="154" y="290" width="133" height="66" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="206.490234375" y="328.8" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,657) scale(1,-1)">Produto</text>
+			<text x="179.138671875" y="319.2" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,638) scale(1,-1)">Preço e disponibilidade</text>
+			<text x="200.4921875" y="309.6" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,619) scale(1,-1)">[ Escolher ]</text>
+			<rect x="303" y="290" width="135" height="125" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="344.935546875" y="362.7" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,725) scale(1,-1)">SUA SACOLA</text>
+			<text x="335.583984375" y="353.09999999999997" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,706) scale(1,-1)">Itens e quantidades</text>
+			<text x="355.822265625" y="343.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,687) scale(1,-1)">Subtotal</text>
+			<text x="339.373046875" y="333.9" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,667) scale(1,-1)">[ Revisar pedido ]</text>
+			<text x="108.38542307455711" y="253.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,506) scale(1,-1)">Totem - ações maiores e encerramento da sessão</text>
+			<rect x="55" y="10" width="340" height="225" rx="7" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<rect x="65" y="194" width="320" height="31" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="153.793212890625" y="206.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,413) scale(1,-1)">Unidade  |  [ Encerrar atendimento ]</text>
+			<rect x="65" y="140" width="320" height="44" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="160.468505859375" y="163.95" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,327) scale(1,-1)">Escolher produtos sem cadastro</text>
+			<text x="168.462158203125" y="153.14999999999998" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,306) scale(1,-1)">Categorias e disponibilidade</text>
+			<rect x="65" y="84" width="154" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="114.6220703125" y="104.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,208) scale(1,-1)">[ Produto + ]</text>
+			<rect x="231" y="84" width="154" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="280.6220703125" y="104.0" style="font-family: Arial; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,208) scale(1,-1)">[ Produto + ]</text>
+			<rect x="65" y="25" width="320" height="46" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+			<text x="177.94140625" y="49.4" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,98) scale(1,-1)">Total  |  [ Revisar e pagar ]</text>
+			<text x="145.6171875" y="39.8" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,79) scale(1,-1)">Aviso de inatividade / Continuar atendimento</text>
+		</g>
+	</g>
+</svg>

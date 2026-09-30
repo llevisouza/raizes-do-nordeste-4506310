@@ -4,7 +4,7 @@ import { escape, button, menuView, cartView, productsView, checkoutView, ordersV
 const main = document.querySelector('#content');
 const modal = document.querySelector('#modal');
 const profiles = new Map();
-let timer, noticeTimer, modalReturnFocus;
+let timer, warningTimer, noticeTimer, modalReturnFocus;
 const routes = { cardapio: menuView, revisao: checkoutView, pedidos: ordersView, fidelidade: loyaltyView, conta: accountView, privacidade: privacyView, operacao: operationsView };
 const labels = { cardapio: 'Cardápio', pedidos: 'Meus pedidos', fidelidade: 'Fidelidade', conta: 'Minha conta', operacao: 'Operação' };
 const route = () => location.hash.slice(1) || 'cardapio';
@@ -99,6 +99,7 @@ document.addEventListener('click', event => {
   const target = event.target.closest('[data-action]'); if (!target || state.busy) return;
   const { action, id, index, delta, category } = target.dataset;
   if (action === 'close') modal.close();
+  if (action === 'continue') { modal.close(); idle(); notice('Você pode continuar o atendimento.'); }
   if (action === 'product') productModal(id);
   if (action === 'category') { state.category = category; render(); main.querySelector(`[data-category="${category}"]`)?.focus(); }
   if (action === 'cart') openModal('Revisar sacola', cartView());
@@ -145,7 +146,11 @@ document.addEventListener('change', event => {
   }
 });
 function idle() {
-  clearTimeout(timer);
+  clearTimeout(timer); clearTimeout(warningTimer);
+  if (state.channel === 'totem') warningTimer = setTimeout(() => {
+    if (state.busy || modal.open) return;
+    openModal('Quer continuar?', `<p>A sessão será encerrada em 20 segundos sem interação para proteger os dados do próximo atendimento.</p>${button('Continuar atendimento', 'continue')}`);
+  }, 100000);
   if (state.channel === 'totem') timer = setTimeout(() => {
     if (state.busy) { idle(); return; }
     if (modal.open) modal.close(); profiles.clear(); resetSession(); navigate('cardapio'); render(); notice('Sessão encerrada por inatividade. Inicie um novo atendimento.');

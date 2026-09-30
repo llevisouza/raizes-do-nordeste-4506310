@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-30T23:21:41.414Z",
+  "url": "http://127.0.0.1:4173",
+  "browser": "153.0.8010.12",
+  "results": [
+    {
+      "name": "T01 - catálogo por unidade e preço regional",
+      "passed": true
+    },
+    {
+      "name": "T02 - busca sem resultado e recuperação",
+      "passed": true
+    },
+    {
+      "name": "T03 - produto esgotado não pode ser escolhido",
+      "passed": true
+    },
+    {
+      "name": "T04 - adicionais, observação e subtotal",
+      "passed": true
+    },
+    {
+      "name": "T05 - quantidade, remoção e carrinho vazio",
+      "passed": true
+    },
+    {
+      "name": "T06 - troca de unidade pede confirmação e limpa carrinho",
+      "passed": true
+    },
+    {
+      "name": "T07 - cadastro exige consentimento e não pré-marca marketing",
+      "passed": true
+    },
+    {
+      "name": "T08 - credenciais inválidas exibem erro",
+      "passed": true
+    },
+    {
+      "name": "T09 - compra sem cadastro e retirada completa",
+      "passed": true
+    },
+    {
+      "name": "T10 - pagamento recusado não libera cozinha",
+      "passed": true
+    },
+    {
+      "name": "T11 - pendência conserva código, benefício e crédito único",
+      "passed": true
+    },
+    {
+      "name": "T12 - recusa de marketing e revogação não bloqueiam compra",
+      "passed": true
+    },
+    {
+      "name": "T13 - exclusão de perfil e exportação sem senha",
+      "passed": true
+    },
+    {
+      "name": "T14 - totem encerra dados do atendimento anterior",
+      "passed": true
+    },
+    {
+      "name": "T15 - totem apaga sessão após 120 segundos de inatividade",
+      "passed": true
+    },
+    {
+      "name": "T16 - teclado abre e fecha modal com foco restaurado",
+      "passed": true
+    },
+    {
+      "name": "T17-320 - responsividade sem rolagem horizontal",
+      "passed": true
+    },
+    {
+      "name": "T17-390 - responsividade sem rolagem horizontal",
+      "passed": true
+    },
+    {
+      "name": "T17-768 - responsividade sem rolagem horizontal",
+      "passed": true
+    },
+    {
+      "name": "T17-1024 - responsividade sem rolagem horizontal",
+      "passed": true
+    },
+    {
+      "name": "T17-1440 - responsividade sem rolagem horizontal",
+      "passed": true
+    },
+    {
+      "name": "T18 - acessibilidade automatizada nas telas principais",
+      "passed": true
+    }
+  ]
+}

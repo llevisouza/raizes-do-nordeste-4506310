@@ -1,1 +1,1 @@
-{"name":"raizes-do-nordeste","version":"1.0.0","private":true,"type":"module","description":"Projeto Front-end - RU 4506310","scripts":{"start":"node scripts/serve.mjs","test":"node --test tests/domain.test.mjs","test:e2e":"node tests/browser.mjs"}}
+{"name":"raizes-do-nordeste","version":"1.0.0","private":true,"type":"module","description":"Projeto Front-end - RU 4506310","scripts":{"start":"node scripts/serve.mjs","test":"node --test tests/domain.test.mjs","test:e2e":"node tests/browser.mjs"},"devDependencies":{"@axe-core/playwright":"^4.13.0","playwright":"^1.63.0"}}
