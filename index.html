@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#723d28">
+  <meta name="description" content="Cardápio, pedidos e fidelidade da rede Raízes do Nordeste. Demonstração acadêmica com dados fictícios.">
+  <title>Raízes do Nordeste | Cardápio e pedidos</title>
+  <link rel="icon" href="assets/marca.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#content">Ir para o conteúdo</a>
+  <header class="header">
+    <a class="brand" href="#cardapio" aria-label="Raízes do Nordeste, início"><img src="assets/marca.svg" alt="" width="44" height="44"><span>raízes<span class="brand-sub">DO NORDESTE</span></span></a>
+    <nav aria-label="Navegação principal" id="navigation"></nav>
+    <button class="cart-button" data-action="cart" aria-label="Abrir sacola">Sacola <span id="cart-count">0</span></button>
+  </header>
+  <div class="context-bar">
+    <label>Unidade <select id="unit" aria-label="Unidade"></select></label>
+    <label>Canal <select id="channel" aria-label="Canal"><option value="web">Web</option><option value="app">App</option><option value="totem">Totem</option></select></label>
+    <span class="demo-label">Ambiente demonstrativo · sem cobranças</span>
+  </div>
+  <main id="content" tabindex="-1"></main>
+  <footer><span>Raízes do Nordeste · Projeto Front-end</span><button class="text-button" data-action="privacy">Privacidade e dados</button><span>Levi Vieira de Sousa · RU 4506310</span></footer>
+  <div class="toast" id="notice" role="status" aria-live="polite"></div>
+  <dialog id="modal" aria-labelledby="modal-title"></dialog>
+  <noscript>Ative o JavaScript para experimentar o fluxo de pedidos. Esta demonstração não realiza pagamentos.</noscript>
+</body>
+</html>
