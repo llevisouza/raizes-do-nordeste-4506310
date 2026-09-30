@@ -4,6 +4,8 @@ Projeto Multidisciplinar, trilha Front-end. Levi Vieira de Sousa, RU 4506310. Cu
 
 Aplicação demonstrativa em HTML, CSS e JavaScript, com cardápio regional, pedidos para retirada, pagamento externo simulado e fidelidade. Os canais Web, App e Totem compartilham regras e navegação; o App é uma representação web, sem pacote nativo.
 
+[Abrir o site público](https://llevisouza.github.io/raizes-do-nordeste-4506310/) · [Relatório em PDF](docs/4506310_Projeto_Front_End.pdf)
+
 ## Executar
 
 Use Node.js 22 ou superior. Na pasta do projeto:
@@ -55,7 +57,7 @@ Para testar uma publicação, defina `TEST_URL` com a URL pública antes de exec
 
 ## Publicação
 
-O projeto pode ser publicado no GitHub Pages pela raiz da branch `main`. Não há dependência de banco, API privada, chave de serviço ou build. Repositório e site devem permanecer públicos para a avaliação, conforme o roteiro. Os endereços definitivos devem constar no PDF após a publicação e a verificação de acesso.
+O projeto está publicado no GitHub Pages pela raiz da branch `main`. Não há dependência de banco, API privada, chave de serviço ou build. Repositório e site devem permanecer públicos para a avaliação, conforme o roteiro. Os endereços definitivos constam no PDF e em `docs/publicacao.json`.
 
 ## Limites da demonstração
 

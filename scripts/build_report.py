@@ -102,10 +102,11 @@ def journey():
     label(d,225,208,'Resultado?',9,True); arrow(d,225,254,225,239)
     box(d,5,192,105,40,'Recusado\nExibir erro',8.5); arrow(d,175,211,110,211)
     box(d,340,192,105,40,'Pendente\nPreservar código',8.5); arrow(d,275,211,340,211)
-    box(d,5,127,105,43,'Revisar ou\nencerrar tentativa',8.5); arrow(d,57,192,57,170)
+    box(d,5,127,105,43,'Consultar retorno\nou encerrar',8.5); arrow(d,57,192,57,170)
     box(d,340,127,105,43,'Consultar resultado\nSem novo pedido',8.5); arrow(d,392,192,392,170)
-    d.add(Line(5,149,1,149,strokeColor=LINE)); d.add(Line(1,149,1,341,strokeColor=LINE)); arrow(d,1,341,105,341)
-    d.add(Line(445,149,450,149,strokeColor=LINE)); d.add(Line(450,149,450,211,strokeColor=LINE)); arrow(d,450,211,445,211)
+    d.add(Line(5,149,1,149,strokeColor=LINE)); d.add(Line(1,149,1,275,strokeColor=LINE)); arrow(d,1,275,105,275)
+    d.add(Line(445,149,450,149,strokeColor=LINE)); d.add(Line(450,149,450,275,strokeColor=LINE)); arrow(d,450,275,345,275)
+    box(d,5,67,105,35,'Encerrar: fim\nSem cobrança',8.5); arrow(d,57,127,57,102)
     label(d,260,171,'Aprovado',8)
     box(d,120,126,210,35,'Confirmar pedido\nAplicar estoque e pontos uma vez',8.5); arrow(d,225,183,225,161)
     box(d,120,67,210,35,'Cozinha: Em preparo → Pronto',8.5); arrow(d,225,126,225,102)
@@ -148,6 +149,18 @@ def wire_desktop():
     box(d,65,25,320,46,'Total  |  [ Revisar e pagar ]\nAviso de inatividade / Continuar atendimento',8)
     return d
 figures={'arquitetura':architecture(),'casos':cases(),'jornada':journey(),'wiremobile':wire_mobile(),'wiredesktop':wire_desktop()}
+def readable_text(shape, minimum):
+    if isinstance(shape,String): shape.fontSize=max(minimum,shape.fontSize)
+    for child in getattr(shape,'contents',[]): readable_text(child,minimum)
+for key,target in [('arquitetura',340),('casos',480),('jornada',480),('wiremobile',380),('wiredesktop',360)]:
+    original=figures[key]
+    readable_text(original,9 if key=='wiremobile' else 9.5 if key=='casos' else 12 if key=='wiredesktop' else 10)
+    scale=target/original.height
+    wrapper=Drawing(W,target)
+    original.scale(scale,scale)
+    original.translate((W/scale-W)/2,0)
+    wrapper.add(original)
+    figures[key]=wrapper
 figdir=ROOT/'docs/figuras';figdir.mkdir(exist_ok=True)
 for key,drawing in figures.items(): renderSVG.drawToFile(drawing,str(figdir/(key+'.svg')))
 

@@ -178,7 +178,7 @@ Figura 5 - Wireframes desktop e Totem. Fonte: elaboração para este projeto.
 
 No desktop, a sacola lateral permite acompanhar o total enquanto o cliente compara produtos. No Totem, os botões principais possuem altura mínima de 56 pixels e há ação de encerrar atendimento. Após 100 segundos sem interação, a interface avisa sobre o encerramento em 20 segundos e permite continuar. Com 120 segundos de inatividade, perfil e pedidos da sessão são apagados.
 
-O modal utiliza o elemento dialog, limita o foco ao conteúdo aberto e pode ser fechado com Escape, exceto durante o processamento do pagamento. Rótulos visíveis identificam formulários, e mensagens dinâmicas usam regiões de anúncio. A avaliação automática com axe não substitui testes com leitores de tela ou usuários reais; esses testes continuam recomendados antes de uma implantação.
+O modal usa dialog, foco delimitado e Escape, exceto no processamento. Formulários têm rótulos e mensagens são anunciadas. A análise automática não substitui testes com leitor de tela ou usuários reais antes da implantação.
 
 ## 8 LGPD E PRIVACIDADE NA INTERFACE
 

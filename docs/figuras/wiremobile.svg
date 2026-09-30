@@ -2,73 +2,75 @@
 <!DOCTYPE svg
   PUBLIC '-//W3C//DTD SVG 1.0//EN'
   'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
-<svg width="453.5433070866142" height="416" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 416" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="453.5433070866142" height="380" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 380" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>...</title>
 	<desc>...</desc>
 	<clipPath id="clip">
-		<rect x="0" y="0" width="453.5433070866142" height="416"/>
+		<rect x="0" y="0" width="453.5433070866142" height="380"/>
 	</clipPath>
-	<g id="group" transform="scale(1,-1) translate(0,-416)" style="clip-path: url(#clip)">
+	<g id="group" transform="scale(1,-1) translate(0,-380)" style="clip-path: url(#clip)">
 		<g transform="">
-			<rect x="5" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
-			<text x="51.330078125" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Cardápio</text>
-			<rect x="12" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="44.671875" y="354.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
-			<rect x="12" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="44.814453125" y="319.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
-			<rect x="157" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
-			<text x="205.82275390625" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Revisão</text>
-			<rect x="164" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="196.671875" y="354.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
-			<rect x="164" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="196.814453125" y="319.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
-			<rect x="309" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
-			<text x="360.33251953125" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Pedido</text>
-			<rect x="316" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="348.671875" y="354.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
-			<rect x="316" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="348.814453125" y="319.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
-			<rect x="12" y="265" width="123" height="34" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="39.48046875" y="279.0" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,558) scale(1,-1)">Busca e categorias</text>
-			<rect x="12" y="188" width="39" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="23.49609375" y="215.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,431) scale(1,-1)">Foto</text>
-			<rect x="55" y="188" width="80" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="67.20703125" y="224.3" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,448) scale(1,-1)">Produto / Preço</text>
-			<text x="76.32421875" y="214.70000000000002" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,429) scale(1,-1)">Disponível</text>
-			<text x="71.544921875" y="205.10000000000002" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,410) scale(1,-1)">[ Escolher + ]</text>
-			<rect x="12" y="113" width="39" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="23.49609375" y="140.5" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,281) scale(1,-1)">Foto</text>
-			<rect x="55" y="113" width="80" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="67.20703125" y="149.3" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,298) scale(1,-1)">Produto / Preço</text>
-			<text x="76.32421875" y="139.70000000000002" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,279) scale(1,-1)">Disponível</text>
-			<text x="71.544921875" y="130.10000000000002" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,260) scale(1,-1)">[ Escolher + ]</text>
-			<rect x="12" y="45" width="123" height="42" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="47.935546875" y="67.4" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,134) scale(1,-1)">[ Abrir sacola ]</text>
-			<text x="45.923828125" y="57.800000000000004" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,115) scale(1,-1)">Total do pedido</text>
-			<rect x="164" y="243" width="123" height="56" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="199.484375" y="272.4" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,544) scale(1,-1)">Loja / Retirada</text>
-			<text x="194.591796875" y="262.79999999999995" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,525) scale(1,-1)">Itens e adicionais</text>
-			<rect x="164" y="177" width="123" height="54" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="192.810546875" y="205.4" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,410) scale(1,-1)">Benefício opcional</text>
-			<text x="185.921875" y="195.8" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,391) scale(1,-1)">Total / Aviso de dados</text>
-			<rect x="164" y="107" width="123" height="58" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="187.255859375" y="137.4" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,274) scale(1,-1)">Forma de pagamento</text>
-			<text x="185.701171875" y="127.80000000000001" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,255) scale(1,-1)">[ Solicitar pagamento ]</text>
-			<rect x="164" y="45" width="123" height="44" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="188.58984375" y="64.0" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,128) scale(1,-1)">[ Voltar ao cardápio ]</text>
-			<rect x="316" y="252" width="123" height="47" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="349.9296875" y="276.9" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,553) scale(1,-1)">Código RN-001</text>
-			<text x="350.591796875" y="267.29999999999995" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,534) scale(1,-1)">Unidade e total</text>
-			<rect x="316" y="140" width="123" height="96" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="353.48828125" y="198.2" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,396) scale(1,-1)">1 Confirmado</text>
-			<text x="353.265625" y="188.6" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,377) scale(1,-1)">2 Em preparo</text>
-			<text x="362.37890625" y="179.0" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,358) scale(1,-1)">3 Pronto</text>
-			<text x="359.044921875" y="169.39999999999998" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,338) scale(1,-1)">4 Retirado</text>
-			<rect x="316" y="45" width="123" height="69" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
-			<text x="340.369140625" y="85.3" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,170) scale(1,-1)">Mensagem do status</text>
-			<text x="342.14453125" y="75.7" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,151) scale(1,-1)">Ou pendência / erro</text>
-			<text x="342.150390625" y="66.1" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,132) scale(1,-1)">[ Consultar retorno ]</text>
-			<text x="122.71110666830711" y="8.0" style="font-family: Arial; font-size: 8px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,16) scale(1,-1)">Baixa fidelidade - informações e ações antes do estilo final</text>
+			<g transform=" matrix(0.913462,0,0,0.913462,19.62447,0)">
+				<rect x="5" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+				<text x="51.330078125" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Cardápio</text>
+				<rect x="12" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="41.06835937499999" y="354.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
+				<rect x="12" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="41.22875976562499" y="319.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
+				<rect x="157" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+				<text x="205.82275390625" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Revisão</text>
+				<rect x="164" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="193.068359375" y="354.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
+				<rect x="164" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="193.228759765625" y="319.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
+				<rect x="309" y="28" width="137" height="355" rx="10" ry="0" style="stroke: rgb(14%,14%,14%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+				<text x="360.33251953125" y="400.0" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,800) scale(1,-1)">Pedido</text>
+				<rect x="316" y="345" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="345.068359375" y="354.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,709) scale(1,-1)">Marca  |  Sacola</text>
+				<rect x="316" y="310" width="123" height="25" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="345.228759765625" y="319.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,639) scale(1,-1)">Unidade / Canal</text>
+				<rect x="12" y="265" width="123" height="34" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="35.22802734374999" y="279.0" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,558) scale(1,-1)">Busca e categorias</text>
+				<rect x="12" y="188" width="39" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="22.49560546875" y="215.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,431) scale(1,-1)">Foto</text>
+				<rect x="55" y="188" width="80" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="63.73291015625" y="224.3" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,448) scale(1,-1)">Produto / Preço</text>
+				<text x="73.98974609375" y="214.70000000000002" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,429) scale(1,-1)">Disponível</text>
+				<text x="68.613037109375" y="205.10000000000002" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,410) scale(1,-1)">[ Escolher + ]</text>
+				<rect x="12" y="113" width="39" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="22.49560546875" y="140.5" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,281) scale(1,-1)">Foto</text>
+				<rect x="55" y="113" width="80" height="61" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="63.73291015625" y="149.3" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,298) scale(1,-1)">Produto / Preço</text>
+				<text x="73.98974609375" y="139.70000000000002" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,279) scale(1,-1)">Disponível</text>
+				<text x="68.613037109375" y="130.10000000000002" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,260) scale(1,-1)">[ Escolher + ]</text>
+				<rect x="12" y="45" width="123" height="42" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="44.739990234375" y="67.4" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,134) scale(1,-1)">[ Abrir sacola ]</text>
+				<text x="42.476806640625" y="57.800000000000004" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,115) scale(1,-1)">Total do pedido</text>
+				<rect x="164" y="243" width="123" height="56" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="196.232421875" y="272.4" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,544) scale(1,-1)">Loja / Retirada</text>
+				<text x="190.728271484375" y="262.79999999999995" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,525) scale(1,-1)">Itens e adicionais</text>
+				<rect x="164" y="177" width="123" height="54" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="188.724365234375" y="205.4" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,410) scale(1,-1)">Benefício opcional</text>
+				<text x="180.974609375" y="195.8" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,391) scale(1,-1)">Total / Aviso de dados</text>
+				<rect x="164" y="107" width="123" height="58" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="182.475341796875" y="137.4" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,274) scale(1,-1)">Forma de pagamento</text>
+				<text x="180.726318359375" y="127.80000000000001" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,255) scale(1,-1)">[ Solicitar pagamento ]</text>
+				<rect x="164" y="45" width="123" height="44" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="183.97607421875" y="64.0" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,128) scale(1,-1)">[ Voltar ao cardápio ]</text>
+				<rect x="316" y="252" width="123" height="47" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="346.4833984375" y="276.9" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,553) scale(1,-1)">Código RN-001</text>
+				<text x="347.228271484375" y="267.29999999999995" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,534) scale(1,-1)">Unidade e total</text>
+				<rect x="316" y="140" width="123" height="96" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="350.48681640625" y="198.2" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,396) scale(1,-1)">1 Confirmado</text>
+				<text x="350.236328125" y="188.6" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,377) scale(1,-1)">2 Em preparo</text>
+				<text x="360.48876953125" y="179.0" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,358) scale(1,-1)">3 Pronto</text>
+				<text x="356.738037109375" y="169.39999999999998" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,338) scale(1,-1)">4 Retirado</text>
+				<rect x="316" y="45" width="123" height="69" rx="4" ry="4" style="stroke: rgb(54%,54%,54%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(95%,95%,95%); fill-rule: evenodd;"/>
+				<text x="335.727783203125" y="85.3" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,170) scale(1,-1)">Mensagem do status</text>
+				<text x="337.72509765625" y="75.7" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,151) scale(1,-1)">Ou pendência / erro</text>
+				<text x="337.731689453125" y="66.1" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,132) scale(1,-1)">[ Consultar retorno ]</text>
+				<text x="109.7035383089321" y="8.0" style="font-family: Arial; font-size: 9px;fill: rgb(14%,14%,14%); stroke:none;" transform="translate(0,16) scale(1,-1)">Baixa fidelidade - informações e ações antes do estilo final</text>
+			</g>
 		</g>
 	</g>
 </svg>
